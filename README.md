@@ -14,5 +14,3 @@
 > Measuring programming progress by the lines of code, is like measuring aircraft building progress by weight.
 
 ✨ Welcome to Web 3.0. Good Luck Devs!
-
-> ⚠️ **Javascript tutorial:** Do you wnat tolearn Javascript? Learn it at my new [Javascript tutorial](https://github.com/leiloukou/javascript-tutorial/)!
